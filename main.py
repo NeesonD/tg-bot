@@ -2,7 +2,7 @@ import logging
 from telegram import Update
 from telegram.ext import filters, MessageHandler, ApplicationBuilder, CommandHandler,ContextTypes
 
-TOKEN = '6168560088:AAFiQQGye-VIIRQgUB7w5gHl27FBNI-KTsA'
+TOKEN = ''
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
